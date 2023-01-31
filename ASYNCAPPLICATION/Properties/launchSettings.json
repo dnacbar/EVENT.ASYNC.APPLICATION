@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ASYNCAPPLICATION": {
+      "commandName": "Project",
+      "commandLineArgs": "15000"
+    }
+  }
+}
