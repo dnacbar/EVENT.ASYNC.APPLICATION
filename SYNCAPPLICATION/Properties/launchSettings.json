@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SYNCAPPLICATION": {
+      "commandName": "Project",
+      "commandLineArgs": "true 7000"
+    }
+  }
+}
